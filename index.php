@@ -9,7 +9,7 @@
 <?php
 
 // 3 sayıdan en büyüğünü bulan program
-$a = 5;
+$a = 105;
 $b = 60;
 $c = 15;
 
