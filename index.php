@@ -9,9 +9,9 @@
 <?php
 
 // 3 sayıdan en büyüğünü bulan program
-$a = 105;
+$a = 305;
 $b = 60;
-$c = 15;
+$c = 1;
 
 if($a > $b && $a > $c){
     echo "En büyük sayı: $a";
